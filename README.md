@@ -1,7 +1,11 @@
 # Alarm Clock
-#### Assembly Guidelines:
+#### Assembly Guidelines v1:
 
 https://docs.google.com/document/d/1e5Tdtt_Lkuso0-ZeYBFMDKHt-9X2DOmhvb95A5a3p7g/edit?usp=sharing
+
+#### Asssembly Guidelines v2:
+
+https://docs.google.com/document/d/1KRJfyKDG_l4KKRovcnUTNg45hpfA5-ElRqROf1tQjBk/edit?usp=sharing
 
 #### Parts List, Schematic, and User Manual:
 
