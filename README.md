@@ -9,7 +9,7 @@ https://docs.google.com/document/d/1KRJfyKDG_l4KKRovcnUTNg45hpfA5-ElRqROf1tQjBk/
 
 #### Parts List, Schematic, and User Manual:
 
-https://drive.google.com/file/d/15GhI204qjG_PSOnJtHWh8SdEnndZrTCo/view
+https://drive.google.com/open?id=1ZlZDp4sTvLeh_-gPQr5mg0gCJ9vfMf-l
 
 #### When complete:
 - Figure out how your clock works.  See user manual above.
