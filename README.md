@@ -14,7 +14,7 @@ https://drive.google.com/file/d/15GhI204qjG_PSOnJtHWh8SdEnndZrTCo/view
 #### When complete:
 - Figure out how your clock works.  See user manual above.
 - Take survey at the end of the assembly guidelines if you haven't already done so.
-- Clean up your workstation
+- Clean up your workstation.
 - Watch the following videos about PCB (printed circuit board) assembly in industry:
   - https://youtu.be/VWH58QrprVc
   - https://youtu.be/8unH7T6ONMM
