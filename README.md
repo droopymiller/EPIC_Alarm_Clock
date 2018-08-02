@@ -18,5 +18,5 @@ https://drive.google.com/open?id=1ZlZDp4sTvLeh_-gPQr5mg0gCJ9vfMf-l
 - Watch the following videos about PCB (printed circuit board) assembly in industry:
   - https://youtu.be/VWH58QrprVc
   - https://youtu.be/8unH7T6ONMM
-- Look at schmetic and see if you can figure out how the 7 segment displays are powered and independently controlled.
+- Look at schematic and see if you can figure out how the 7 segment displays are powered and independently controlled.
   
